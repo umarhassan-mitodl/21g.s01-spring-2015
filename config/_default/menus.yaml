@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 20c4e4dd-3116-9158-9055-c17213d273d9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cb40dabb-2416-bda7-3529-61426dc31b40
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1ec6264f-d72b-921a-8e20-5b3d256f37bb
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 985edc67-81d5-1662-a145-c0b65acb738b
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 0b839a84-fd4d-3ace-9cda-ab8b8bd1822e
+  name: Participation
+  pageRef: /pages/assignments/participation
+  parent: 985edc67-81d5-1662-a145-c0b65acb738b
+  weight: 50
+- identifier: e6b266a8-a16a-21f2-b5d8-ebce8ba2c932
+  name: Short Response Essays
+  pageRef: /pages/assignments/short-response-essays
+  parent: 985edc67-81d5-1662-a145-c0b65acb738b
+  weight: 60
+- identifier: e0422d9c-9f46-d16a-efd9-2157c4446d5c
+  name: Final Project
+  pageRef: /pages/assignments/final-project
+  parent: 985edc67-81d5-1662-a145-c0b65acb738b
+  weight: 70
