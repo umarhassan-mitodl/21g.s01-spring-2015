@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Latin American History"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ]
+  ],
+  "legacy_uid": "24d16e7b-9caf-9509-4d2b-099f61c934bb",
+  "instructors": {
+    "content": [
+      "e03b2709-3f62-3da8-6924-d679963bcb91"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "23a68471-b58e-7766-6c7b-1933bd1851f0",
+    "website": "21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015"
+  },
+  "course_title": "Modern Mexico: Representations of Mexico City's Urban Life",
+  "course_description": "The goal of this course is to offer a general introduction to 20th and 21st century literature and cultural production about Modern Mexico. Emphasis will be placed on the way intellectuals and artists have presented the changes in Mexico City's urban life, and how these representations question themes and trends in national identity, state control, globalization, and immigration.",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.S01",
+  "course_image_thumbnail": {
+    "content": "f9460646-b7ea-421d-30e5-73a2ff5f0472",
+    "website": "21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "59fe9f09-4219-43bc-b4e4-b014ac9a41ab",
+  "site_short_id": "21g.s01-spring-2015",
+  "site_url_path": "courses/21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015",
+  "title": "Course Metadata"
+}
